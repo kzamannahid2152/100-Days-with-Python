@@ -1,0 +1,8 @@
+print("Hola Python world! I'm welcoming you guys to get a chance and spend some time with python world.", 89)
+print(9)
+print(17*26) 
+print(17+26)
+print(17-26) 
+print(17/26) 
+print(17%26) 
+print(17//26) 
